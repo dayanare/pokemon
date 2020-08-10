@@ -1,0 +1,9 @@
+a:hover{
+    text-decoration: none;
+}
+.form-inline, .form-control {
+  width: 100% !important;
+}
+main, header{
+  background-color: yellow;
+}
